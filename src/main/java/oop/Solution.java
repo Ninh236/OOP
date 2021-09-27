@@ -73,7 +73,7 @@ public class Solution {
     }
 
     /**
-     * reduce fraciton.
+     * reduce fraction.
      *
      * @return reduced fraction
      */
@@ -112,7 +112,7 @@ public class Solution {
      * multiply two fractions.
      *
      * @param other other fraction
-     * @return fraction after mutilpying
+     * @return fraction after multiplying
      */
     public Solution multiply(Solution other) {
         numerator *= other.getNumerator();
